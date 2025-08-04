@@ -67,6 +67,10 @@ To automate and streamline the AVEN college admission process by deploying an in
 
 This project was developed as part of an internship program using **IBM Watsonx and IBM Cloud Lite services**.
 
+## 🎬 Demo Video
 
-This project was developed as part of an internship program using **IBM Watsonx and IBM Cloud Lite services**.
+📺 [Click here to watch the AVEN Agent demo](https://drive.google.com/file/d/1MyPrbVRhVFt02Bs4GTYNcYxAlYhfc6OC/view?usp=sharing)
+
+This video shows how the RAG-based admission assistant responds to queries using IBM Watsonx and Granite.
+
 
