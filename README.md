@@ -17,9 +17,9 @@ To automate and streamline the AVEN college admission process by deploying an in
 | File | Description |
 |------|-------------|
 | `FINAL PPT.pptx` | Final presentation slides |
-| `AVEN_Admission_Agent_FAQ.txt` | RAG-based knowledge document |
+| `AVEN AGENT.txt` | RAG-based knowledge document |
 | `aven_demo.mp4` | Short demo video showing project functionality |
-| `screenshots/` | (Optional) Screenshots of Prompt Lab, model setup, etc. |
+| `IMPLENTATION` | (Optional) Screenshots of Prompt Lab, model setup, etc. |
 
 ---
 
@@ -73,4 +73,28 @@ This project was developed as part of an internship program using **IBM Watsonx 
 
 This video shows how the RAG-based admission assistant responds to queries using IBM Watsonx and Granite.
 
+# 🤖 AVEN Agent – AI-Powered College Admission Assistant
+
+This project uses IBM Watsonx.ai and Granite foundation models to create an AI-powered agent that helps students with admission queries at Avanthi Institute of Engineering and Technology (AVEN), Narsipatnam. It uses RAG (Retrieval-Augmented Generation) to give accurate responses from a document-based knowledge source.
+
+## 📁 Files
+
+- `IBM PROJECT PPT VER.pptx` – Final presentation
+- `PROJECT FAQ.pdf` – Knowledge base used for RAG
+- `IMPLEMENTATION.pdf` – Technical methodology
+- `RESULT.pdf` – Output and results
+- `aven_demo.mp4` – [Watch demo](https://drive.google.com/file/d/1MyPrbVRhVFt02Bs4GTYNcYxAlYhfc6OC/view?usp=sharing)
+
+## 🚀 Technologies Used
+
+- IBM Watsonx Prompt Lab
+- Granite-3-3b-instruct Model
+- RAG (Retrieval-Augmented Generation)
+- Document Indexing (Vector-based)
+
+## 🔗 References
+
+- [IBM Cloud](https://cloud.ibm.com)
+- [Watsonx Docs](https://www.ibm.com/docs/en/watsonx)
+- [AVEN Official Site](https://www.avanthienggcollege.ac.in)
 
